@@ -1,3 +1,6 @@
+
+
+
 // var manger={
 //     firstName: "yehuda",
 //     lestName: "sanay",
@@ -36,3 +39,17 @@
 // for(var i=0;i<cllas.studentNames.length;i++){
 // console.log(cllas.studentNames[i]);
 // }
+
+// var Kindergarten={
+//     Teacher:"may",
+//     numberofkids:10,
+//     kidsnames:["shay","hai","danni","dana","mimi","yafit","tal","yossef","lior","danit"],
+
+// }
+
+// for(var i=0; i<Kindergarten["kidsnames"].length;i++){
+//     console.log(Kindergarten["kidsnames"][i]);
+// }
+
+// var information= prompt();
+// console.log(Kindergarten[information]);
